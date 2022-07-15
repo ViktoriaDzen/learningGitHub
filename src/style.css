@@ -6,7 +6,7 @@ header {
   margin-bottom: 40px;
 }
 
-#city-input {
+#town-input {
   box-shadow: 0.1px 1.1px 4.1px 3px rgba(21, 21, 21, 0.2);
   border: none;
   border-radius: 4px;
@@ -22,6 +22,7 @@ header {
   border: none;
   padding: 5px 10px;
   color: #ffffff;
+  border-radius: 4px;
 }
 .box {
   padding: 40px;
